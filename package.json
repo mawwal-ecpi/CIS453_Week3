@@ -2,6 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mawwal-ecpi.github.io/CIS453_Week3/",
   "dependencies": {
     "axios": "^0.18.1",
     "concurrently": "^4.0.1",
